@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research Course Project 1"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
@@ -13,8 +13,6 @@ options(scipen = 999)
 ### Notes
 
 Following scripts use functions from tidyverse library which includes dplyr, ggplot2 and other useful packages. 
-
-
 
 
 
